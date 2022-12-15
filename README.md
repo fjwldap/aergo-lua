@@ -31,7 +31,7 @@
 - [helloworld.lua](/code/helloworld.lua) 작성
 - aergo ide에서 open 또는 내용 작성 후 **deploy 클릭**
 
-  <img src="img/1_1.png"  >
+  <img src="img/1_1.jpeg"  >
 
 - confirm 클릭
 
@@ -42,7 +42,7 @@
   <img src="img/1_3.png" width="200"  >
 
 - 귀여운 고양이와 성공...
-  <img src="img/1_4.png"   >
+  <img src="img/1_4.jpeg"   >
 
 - testnet에서 확인 가능
 
